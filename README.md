@@ -16,7 +16,7 @@ I usually write at  : https://saujanthapa.com.np
 <br><br><br><br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saujanthapa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saujan Thapa's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saujan-Thapa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Saujan Thapa's Github Stats">
 </p>
 
 <p align='center'>
